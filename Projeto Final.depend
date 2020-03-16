@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1513732793 source:c:\users\david\desktop\projeto final\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1513722622 c:\users\david\desktop\projeto final\funcoes_auxiliares.h
+	"constantes.h"
+	"Estruturas.h"
+
+1513732634 c:\users\david\desktop\projeto final\constantes.h
+
+1513179336 c:\users\david\desktop\projeto final\estruturas.h
+
+1513736466 source:c:\users\david\desktop\projeto final\funcoes_navegacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Constantes.h"
+	"Estruturas.h"
+	"funcoes_navegacao.h"
+	"funcoes_auxiliares.h"
+
+1513733290 source:c:\users\david\desktop\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Estruturas.h"
+	"Constantes.h"
+	"funcoes_navegacao.h"
+
+1513732300 c:\users\david\desktop\projeto final\funcoes_navegacao.h
+	<stdio.h>
+	<stdlib.h>
+	"Constantes.h"
+	"Estruturas.h"
+
+1512328617 source:c:\users\fred\desktop\projeto final\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1512328050 c:\users\fred\desktop\projeto final\funcoes_auxiliares.h
+	"constantes.h"
+	"Estruturas.h"
+
+1511214234 c:\users\fred\desktop\projeto final\constantes.h
+
+1513179336 c:\users\fred\desktop\projeto final\estruturas.h
+
+1513434567 source:c:\users\fred\desktop\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Estruturas.h"
+	"Constantes.h"
+	"funcoes_navegacao.h"
+
+1513390412 c:\users\fred\desktop\projeto final\funcoes_navegacao.h
+	<stdio.h>
+	<stdlib.h>
+	"Constantes.h"
+	"Estruturas.h"
+
+1513441295 source:c:\users\fred\desktop\projeto final\funcoes_navegacao.c
+	<stdio.h>
+	<stdlib.h>
+	"Constantes.h"
+	"Estruturas.h"
+
+1512328617 source:f:\ipleiria\programacao\projeto final\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1512328050 f:\ipleiria\programacao\projeto final\funcoes_auxiliares.h
+	"constantes.h"
+	"Estruturas.h"
+
+1511214234 f:\ipleiria\programacao\projeto final\constantes.h
+
+1513179336 f:\ipleiria\programacao\projeto final\estruturas.h
+
+1513557399 source:f:\ipleiria\programacao\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Estruturas.h"
+	"Constantes.h"
+	"funcoes_navegacao.h"
+
+1513554974 f:\ipleiria\programacao\projeto final\funcoes_navegacao.h
+	<stdio.h>
+	<stdlib.h>
+	"Constantes.h"
+	"Estruturas.h"
+
+1513614574 source:f:\ipleiria\programacao\projeto final\funcoes_navegacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Constantes.h"
+	"Estruturas.h"
+	"funcoes_navegacao.h"
+	"funcoes_auxiliares.h"
+
+1513557399 source:c:\users\manuel piedade\desktop\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Estruturas.h"
+	"Constantes.h"
+	"funcoes_navegacao.h"
+
+1513179336 c:\users\manuel piedade\desktop\projeto final\estruturas.h
+
+1511214234 c:\users\manuel piedade\desktop\projeto final\constantes.h
+
+1513638817 c:\users\manuel piedade\desktop\projeto final\funcoes_navegacao.h
+	<stdio.h>
+	<stdlib.h>
+	"Constantes.h"
+	"Estruturas.h"
+
+1513705635 source:c:\users\manuel piedade\desktop\projeto final\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1513687654 c:\users\manuel piedade\desktop\projeto final\funcoes_auxiliares.h
+	"constantes.h"
+	"Estruturas.h"
+
+1513736643 source:c:\users\alexandre\desktop\projeto final\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1513736644 c:\users\alexandre\desktop\projeto final\funcoes_auxiliares.h
+	"constantes.h"
+	"Estruturas.h"
+
+1513736643 c:\users\alexandre\desktop\projeto final\constantes.h
+
+1513736643 c:\users\alexandre\desktop\projeto final\estruturas.h
+
+1513736644 source:c:\users\alexandre\desktop\projeto final\funcoes_navegacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Constantes.h"
+	"Estruturas.h"
+	"funcoes_navegacao.h"
+	"funcoes_auxiliares.h"
+
+1513736644 c:\users\alexandre\desktop\projeto final\funcoes_navegacao.h
+	<stdio.h>
+	<stdlib.h>
+	"Constantes.h"
+	"Estruturas.h"
+
+1513736644 source:c:\users\alexandre\desktop\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Estruturas.h"
+	"Constantes.h"
+	"funcoes_navegacao.h"
+
+1513736644 source:c:\users\david\desktop\zip projeto final\projeto final\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1513736646 c:\users\david\desktop\zip projeto final\projeto final\funcoes_auxiliares.h
+	"constantes.h"
+	"Estruturas.h"
+
+1513736644 c:\users\david\desktop\zip projeto final\projeto final\constantes.h
+
+1513736644 c:\users\david\desktop\zip projeto final\projeto final\estruturas.h
+
+1513737506 source:c:\users\david\desktop\zip projeto final\projeto final\funcoes_navegacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Constantes.h"
+	"Estruturas.h"
+	"funcoes_navegacao.h"
+	"funcoes_auxiliares.h"
+
+1513736646 c:\users\david\desktop\zip projeto final\projeto final\funcoes_navegacao.h
+	<stdio.h>
+	<stdlib.h>
+	"Constantes.h"
+	"Estruturas.h"
+
+1513736646 source:c:\users\david\desktop\zip projeto final\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Estruturas.h"
+	"Constantes.h"
+	"funcoes_navegacao.h"
+
+1513736644 source:c:\users\david\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1513736646 c:\users\david\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\funcoes_auxiliares.h
+	"constantes.h"
+	"Estruturas.h"
+
+1513736644 c:\users\david\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\constantes.h
+
+1513736644 c:\users\david\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\estruturas.h
+
+1513737506 source:c:\users\david\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\funcoes_navegacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Constantes.h"
+	"Estruturas.h"
+	"funcoes_navegacao.h"
+	"funcoes_auxiliares.h"
+
+1513736646 c:\users\david\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\funcoes_navegacao.h
+	<stdio.h>
+	<stdlib.h>
+	"Constantes.h"
+	"Estruturas.h"
+
+1513736646 source:c:\users\david\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Estruturas.h"
+	"Constantes.h"
+	"funcoes_navegacao.h"
+
+1513736644 source:c:\users\david simões\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1513736646 c:\users\david simões\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\funcoes_auxiliares.h
+	"constantes.h"
+	"Estruturas.h"
+
+1513736644 c:\users\david simões\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\constantes.h
+
+1513736644 c:\users\david simões\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\estruturas.h
+
+1513737506 source:c:\users\david simões\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\funcoes_navegacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Constantes.h"
+	"Estruturas.h"
+	"funcoes_navegacao.h"
+	"funcoes_auxiliares.h"
+
+1513736646 c:\users\david simões\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\funcoes_navegacao.h
+	<stdio.h>
+	<stdlib.h>
+	"Constantes.h"
+	"Estruturas.h"
+
+1513736646 source:c:\users\david simões\desktop\ipl\1º semestre\programação i\zip projeto final\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Estruturas.h"
+	"Constantes.h"
+	"funcoes_navegacao.h"
+

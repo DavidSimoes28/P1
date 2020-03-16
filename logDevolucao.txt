@@ -1,0 +1,8 @@
+
+Registo:
+Numero de Registo: 4
+Destino: leiria
+Data de Devolucao: 20-20-2020
+Veiculo: 10
+Causa da Devolucao: encomenda danificada
+
